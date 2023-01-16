@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AKIBA BLOG</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on AKIBA BLOG</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 16 Jan 2023 20:30:24 +0900</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>秋语</title>
+      <link>https://examplesite.com/posts/isay/</link>
+      <pubDate>Mon, 16 Jan 2023 20:30:24 +0900</pubDate>
+      
+      <guid>https://examplesite.com/posts/isay/</guid>
+      <description> 20点31分-2023年1月16日-JP 秋天不回来 </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://examplesite.com/posts/first/</link>
+      <pubDate>Sun, 15 Jan 2023 22:08:53 +0900</pubDate>
+      
+      <guid>https://examplesite.com/posts/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MARKDOWN入门到精通</title>
+      <link>https://examplesite.com/posts/markdown_grammar/</link>
+      <pubDate>Sun, 15 Jan 2023 22:08:53 +0900</pubDate>
+      
+      <guid>https://examplesite.com/posts/markdown_grammar/</guid>
+      <description>标题的使用方式 (Title or Heading) 1~6级标题分别用: 1~6个# 空格 来表示
+代码 # heading 1 ## heading 2 ### heading 3 #### heading 4 ##### heading 5 ###### heading 6 效果 heading 1 heading 2 heading 3 heading 4 heading 5 heading 6 换行以及分段 (Rows and Paragraphs) 换行: 空格 空格 换行
+代码 row1 &amp;lt;!--Here are two spacebar--&amp;gt; row2 效果 row1
+row2
+分段: 换行 换行用来表示
+代码 paragraph1 paragraph2 效果 paragraph1
+paragraph2
+设置字体属性 (Character Attribute) ~~包住表示删除线</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
