@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://syakiba.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-01-16T20:30:24+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-01-16T20:30:24+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/posts/isay/</loc>
+    <loc>/posts/isay/</loc>
     <lastmod>2023-01-16T20:30:24+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/posts/first/</loc>
+    <loc>/posts/first/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/posts/markdown_grammar/</loc>
+    <loc>/posts/markdown_grammar/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/tags/%E5%85%A5%E9%97%A8/</loc>
+    <loc>/tags/%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/tags/%E5%8F%82%E8%80%83/</loc>
+    <loc>/tags/%E5%8F%82%E8%80%83/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/tags/%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>/tags/%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>https://syakiba.github.io/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://syakiba.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://syakiba.github.io/search.zh/</loc>
+    <loc>/search.zh/</loc>
   </url>
 </urlset>
