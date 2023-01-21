@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>markdown on AKIBA BLOG</title>
-    <link>/tags/markdown/</link>
-    <description>Recent content in markdown on AKIBA BLOG</description>
+    <title>补码 on AKIBA BLOG</title>
+    <link>/tags/%E8%A1%A5%E7%A0%81/</link>
+    <description>Recent content in 补码 on AKIBA BLOG</description>
     <image>
       <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="/tags/%E8%A1%A5%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MARKDOWN入门到精通</title>
-      <link>/posts/0.markdown_grammar/</link>
+      <title>正负数储存原理</title>
+      <link>/posts/1.012_complement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/0.markdown_grammar/</guid>
-      <description>markdown语法之介绍、演示、使用方式、参考</description>
+      <guid>/posts/1.012_complement/</guid>
+      <description>正负数如何在计算机中存储之原码、补码、反码</description>
     </item>
     
   </channel>

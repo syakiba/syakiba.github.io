@@ -9,14 +9,13 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Jan 2023 22:08:53 +0900</lastBuildDate><atom:link href="/tags/%E5%8F%82%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="/tags/%E5%8F%82%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MARKDOWN入门到精通</title>
-      <link>/posts/markdown_grammar/</link>
-      <pubDate>Sun, 15 Jan 2023 22:08:53 +0900</pubDate>
+      <link>/posts/0.markdown_grammar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/markdown_grammar/</guid>
+      <guid>/posts/0.markdown_grammar/</guid>
       <description>markdown语法之介绍、演示、使用方式、参考</description>
     </item>
     
