@@ -2,49 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/isay/</loc>
+    <loc>https://syakiba.github.io/posts/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E7%BC%96%E7%A0%81/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E8%A1%A5%E7%A0%81/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E6%B1%87%E7%BC%96/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E5%8E%9F%E7%A0%81/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/posts/1.012_complement/</loc>
+    <lastmod>2023-01-19T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/</loc>
+    <lastmod>2023-01-19T19:51:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E8%BF%9B%E5%88%B6/</loc>
+    <lastmod>2023-01-19T19:51:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/posts/2.numb_system/</loc>
+    <lastmod>2023-01-19T19:51:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/tags/%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6/</loc>
+    <lastmod>2023-01-19T19:51:00+09:00</lastmod>
+  </url><url>
+    <loc>https://syakiba.github.io/isay/</loc>
     <lastmod>2023-01-16T20:30:24+09:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://syakiba.github.io/tags/markdown/</loc>
+    <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://syakiba.github.io/posts/0.markdown_grammar/</loc>
+    <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://syakiba.github.io/tags/%E5%8F%82%E8%80%83/</loc>
+    <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://syakiba.github.io/tags/%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://syakiba.github.io/archives/</loc>
   </url><url>
-    <loc>/posts/0.markdown_grammar/</loc>
+    <loc>https://syakiba.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/tags/%E7%BC%96%E7%A0%81/</loc>
-  </url><url>
-    <loc>/tags/%E8%A1%A5%E7%A0%81/</loc>
-  </url><url>
-    <loc>/tags/%E5%8F%82%E8%80%83/</loc>
-  </url><url>
-    <loc>/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/</loc>
-  </url><url>
-    <loc>/tags/%E6%B1%87%E7%BC%96/</loc>
-  </url><url>
-    <loc>/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/</loc>
-  </url><url>
-    <loc>/tags/%E8%BF%9B%E5%88%B6/</loc>
-  </url><url>
-    <loc>/tags/%E5%85%A5%E9%97%A8/</loc>
-  </url><url>
-    <loc>/posts/2.numb_system/</loc>
-  </url><url>
-    <loc>/tags/%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6/</loc>
-  </url><url>
-    <loc>/search/</loc>
-  </url><url>
-    <loc>/tags/%E8%AF%A6%E8%A7%A3/</loc>
-  </url><url>
-    <loc>/tags/%E5%8E%9F%E7%A0%81/</loc>
-  </url><url>
-    <loc>/posts/1.012_complement/</loc>
+    <loc>https://syakiba.github.io/search/</loc>
   </url>
 </urlset>
