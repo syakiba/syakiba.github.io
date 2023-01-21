@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>/isay/</loc>
     <lastmod>2023-01-16T20:30:24+09:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2023-01-16T20:30:24+09:00</lastmod>
+    <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/posts/isay/</loc>
-    <lastmod>2023-01-16T20:30:24+09:00</lastmod>
-  </url><url>
-    <loc>/posts/first/</loc>
+    <loc>/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
     <loc>/tags/markdown/</loc>
@@ -23,10 +20,10 @@
     <loc>/tags/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/tags/%E5%85%A5%E9%97%A8/</loc>
+    <loc>/tags/%E5%8F%82%E8%80%83/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
-    <loc>/tags/%E5%8F%82%E8%80%83/</loc>
+    <loc>/tags/%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2023-01-15T22:08:53+09:00</lastmod>
   </url><url>
     <loc>/tags/%E8%AF%A6%E8%A7%A3/</loc>
@@ -36,6 +33,6 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/search.zh/</loc>
+    <loc>/search/</loc>
   </url>
 </urlset>

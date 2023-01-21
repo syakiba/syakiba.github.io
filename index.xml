@@ -10,23 +10,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Jan 2023 20:30:24 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 22:08:53 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>秋语</title>
-      <link>/posts/isay/</link>
+      <title>🫧囚言秋羽</title>
+      <link>/isay/</link>
       <pubDate>Mon, 16 Jan 2023 20:30:24 +0900</pubDate>
       
-      <guid>/posts/isay/</guid>
-      <description> 20点31分-2023年1月16日-JP 秋天不回来 </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>/posts/first/</link>
-      <pubDate>Sun, 15 Jan 2023 22:08:53 +0900</pubDate>
-      
-      <guid>/posts/first/</guid>
-      <description></description>
+      <guid>/isay/</guid>
+      <description>心生万象</description>
     </item>
     
     <item>
@@ -35,14 +26,7 @@
       <pubDate>Sun, 15 Jan 2023 22:08:53 +0900</pubDate>
       
       <guid>/posts/markdown_grammar/</guid>
-      <description>标题的使用方式 (Title or Heading) 1~6级标题分别用: 1~6个# 空格 来表示
-代码 # heading 1 ## heading 2 ### heading 3 #### heading 4 ##### heading 5 ###### heading 6 效果 heading 1 heading 2 heading 3 heading 4 heading 5 heading 6 换行以及分段 (Rows and Paragraphs) 换行: 空格 空格 换行
-代码 row1 &amp;lt;!--Here are two spacebar--&amp;gt; row2 效果 row1
-row2
-分段: 换行 换行用来表示
-代码 paragraph1 paragraph2 效果 paragraph1
-paragraph2
-设置字体属性 (Character Attribute) ~~包住表示删除线</description>
+      <description>markdown语法之介绍、演示、使用方式、参考</description>
     </item>
     
     

@@ -17,14 +17,7 @@
       <pubDate>Sun, 15 Jan 2023 22:08:53 +0900</pubDate>
       
       <guid>/posts/markdown_grammar/</guid>
-      <description>标题的使用方式 (Title or Heading) 1~6级标题分别用: 1~6个# 空格 来表示
-代码 # heading 1 ## heading 2 ### heading 3 #### heading 4 ##### heading 5 ###### heading 6 效果 heading 1 heading 2 heading 3 heading 4 heading 5 heading 6 换行以及分段 (Rows and Paragraphs) 换行: 空格 空格 换行
-代码 row1 &amp;lt;!--Here are two spacebar--&amp;gt; row2 效果 row1
-row2
-分段: 换行 换行用来表示
-代码 paragraph1 paragraph2 效果 paragraph1
-paragraph2
-设置字体属性 (Character Attribute) ~~包住表示删除线</description>
+      <description>markdown语法之介绍、演示、使用方式、参考</description>
     </item>
     
   </channel>
