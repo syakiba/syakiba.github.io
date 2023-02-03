@@ -13,10 +13,10 @@
     <lastBuildDate>Thu, 19 Jan 2023 21:05:00 +0900</lastBuildDate><atom:link href="https://syakiba.github.io/tags/%E8%A1%A5%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>正负数储存原理</title>
-      <link>https://syakiba.github.io/posts/1.012_complement/</link>
+      <link>https://syakiba.github.io/posts/1.positive_negative_number_principle/</link>
       <pubDate>Thu, 19 Jan 2023 21:05:00 +0900</pubDate>
       
-      <guid>https://syakiba.github.io/posts/1.012_complement/</guid>
+      <guid>https://syakiba.github.io/posts/1.positive_negative_number_principle/</guid>
       <description>正负数如何在计算机中存储之原码、补码、反码</description>
     </item>
     
